@@ -1,6 +1,6 @@
 # 🗳️ Poll App
 
-A polling web application where users can create polls, vote on them, and review real-time results. Built with Python, PostgreSQL for database and psycopg2 to handle the database connection.
+A polling application where users can create polls, vote on them, and review real-time results. Built with Python, PostgreSQL for database and psycopg2 to handle the database connection.
 
 ---
 
