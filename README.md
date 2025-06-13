@@ -48,7 +48,7 @@ A polling application where users can create polls, vote on them, and review rea
     ```
 
 5. **Write your PostgreSQL database credentials in the `.env` file**
-6. 
+    
    ```bash
     HOST = "(your host)"
     DATABASE_NAME = "(your database name)"
